@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
     "@types/react-bootstrap": "^0.32.20",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "create-react-class": "^15.6.3",
     "http-proxy-middleware": "^1.0.0",
